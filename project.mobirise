@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 89,
+    "uniqCompNum": 90,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": ""
@@ -82,12 +82,178 @@
             "overlayOpacity": 0.5
           },
           "title": "<p>&nbsp; &nbsp;&nbsp;<br></p>",
-          "caption": "<p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">Welcome to Beehives Discovery Tours, We Make your tour &nbsp;All Things That Comes With Making Your Dream Holiday A Reality!&nbsp;</b><br></p>",
+          "caption": "<p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">Welcome to Beehives Discovery Tours, We Make your tour &nbsp;&amp; &nbsp;All Things That Comes With Making Your Dream Holiday A Reality!&nbsp;</b><br></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content8",
           "_anchor": "content8-2e"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Montie Video Maru",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/montivideo-maru-629x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/montivideo-maru-629x480-629x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Yamamoto Bunker",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/banker-627x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/banker-627x480-627x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "War Museum",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/east-new-britain-war-museum-640x337.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/east-new-britain-war-museum-640x337-640x337.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Volcanoes",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/mt-tav-629x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mt-tav-629x480-629x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cemeteries",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170413-2417-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170413-2417-640x480-640x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Montie Video Maru",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170927-3156-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170927-3156-640x480-640x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Yamamoto Bunker",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-tunnels-at-tunnel-hill-rabaul160602-640x361.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-tunnels-at-tunnel-hill-rabaul160602-640x361-640x361.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Yamamoto Bunker",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170929-163558-640x361.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-163558-640x361-640x361.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "War Museum",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/banker2-640x473.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/banker2-640x473-640x473.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Volcanoes",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-184-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-184-640x480-640x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cemeteries",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170413-2416-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170413-2416-640x480-640x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cemeteries",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170413-2415-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170413-2415-640x480-640x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Cemeteries",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20170413-2419-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170413-2419-640x480-640x480.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "See All",
+          "_name": "gallery4",
+          "_anchor": "gallery4-2h"
         },
         {
           "_inherit": "menu",
@@ -181,249 +347,6 @@
           "_anchor": "ext_menu-0"
         },
         {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": 1,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#ffffff",
-            "showText": false,
-            "filter": true,
-            "images": [
-              {
-                "tags": "Rabaul Tunnels",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img_20170929-160538-640x361.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-160538-640x361-640x361.jpg",
-                "alt": "",
-                "caption": "Sample Pic",
-                "active": false
-              },
-              {
-                "tags": "Yama Moto Bankers",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img_20170929_%20tunnels%20at%20tunnel%20hill%20rabaul160602-1999x1129.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-tunnels-at-tunnel-hill-rabaul160602-1999x1129-800x451.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Montie Video Maru",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-8273-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8273-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Volcano Trips",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-184-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-184-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "War Museum",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/wp_20160107_10_54_09_pro-640x360.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/wp-20160107-10-54-09-pro-640x360-640x360.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "War Museum",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-20170413-2417-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170413-2417-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "War Museum",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-20170413-2415-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170413-2415-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "War Museum",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/east%20new%20britain%20war%20museum-640x337.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/east-new-britain-war-museum-640x337-640x337.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Volcano Trips",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-20170810-2960-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170810-2960-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Volcano Trips",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-20170927-3155-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170927-3155-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Volcano Trips",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-20170927-3156-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170927-3156-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Yama Moto Bankers",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/banker-620x475.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/banker-620x475-620x475.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Montie Video Maru",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-8814-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8814-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Montie Video Maru",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/beehives%20snorkeling%20site-640x441.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/beehives-snorkeling-site-640x441-640x441.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Montie Video Maru",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-8866-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8866-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Yama Moto Bankers",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-20170805-2914-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170805-2914-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Yama Moto Bankers",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/banker2-640x473.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/banker2-640x473-640x473.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Rabaul Tunnels",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img_20170929_%20tunnels%20at%20tunnel%20hill%20rabaul160602-640x361.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170929-tunnels-at-tunnel-hill-rabaul160602-640x361-640x361.jpg",
-                "alt": "",
-                "caption": "Sample Pic",
-                "active": false
-              },
-              {
-                "tags": "Rabaul Tunnels",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-20170805-2917-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170805-2917-640x480-640x480.jpg",
-                "alt": "",
-                "caption": "Sample Pic",
-                "active": false
-              },
-              {
-                "tags": "Rabaul Tunnels",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/flat,1000x1000,075,f-640x424.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/flat1000x1000075f-640x424-640x424.jpg",
-                "alt": "",
-                "caption": "Sample Pic",
-                "active": true
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "See All",
-          "_name": "gallery4",
-          "_anchor": "gallery4-8"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -444,7 +367,7 @@
             "overlayOpacity": 0.5
           },
           "title": "What Beehives Discovery Tours has to offer&nbsp;",
-          "text": "<span style=\"font-style: normal;\">All Things That Comes With Making Your Dream Holiday A Reality! <br>\n<br>Feel inspired by Rabaultown’s stunning scenery, huge range of activities and renowned warm welcome. Surrounded by majestic islands and set on the shores of crystal clear seas, the natural beauty and the unique energy of the region create the perfect backdrop for a holiday full of discovery, and rejuvenation. \n<br>You’ll find everything you need to plan your next trip to Rabaultown, from accommodation options to the endless array of activities and attractions, as well as a full calendar of events for the year.\n<br><br>We offer services varying from the guided tour, to exclusive activities while you are here in Rabaul, Tour, Excursions, and Events, Beehives Discovery Tours is your solution to a stress-free vacation. &nbsp;<br>We aim to bring services to your doorstep Our motto is simple!!!\n<br>“You choose and we make it possible at your convenience”</span><br><br><b>Beehives History</b><br><span style=\"font-style: normal;\">Beehive use to be a Fishing Zone for the Fisherman where they kept Canned wiven Fish Traps were kept and they had heir houses here also,Beehives welcomes you to Rabaul .</span><br><br><span style=\"font-style: normal;\"><b>Rabaul History</b></span><br><span style=\"font-style: normal;\">Rabaul is better known as (Rababaul) in our Kuanua language meaning  \"The Mangroves\". We come from a Melanesian Metrilian Society was the woman are rulers they own the Land and Clans they are the Head of the family.We speak the Kuanua Language and we are known as the Kuanua people of Rabaul and NOT the Tolais, Tolai in Kuanua meaning \"My Friend\" just a slang used in the early 1960s so be mindful of this miss information from people who don't really know Our History.&nbsp;<br></span><br><b style=\"font-style: normal;\">Duty of Care</b><br><span style=\"font-style: normal;\">Beehives Discovery Tours has a Safety  obligation which is to make Sure your Rabaul Land Tour  is all safe according to our Checklist as Drivers are being Breathalyser for Alcohol free Zero Tolerance that ensures Tourist are Safe.<br> We also provide Cone Barricade for Parallel Parking,We always Provide Life Jackets for those who prefer Boat Cruise,We Provide a First Aid Kit for minor injuries on board &amp; A Senior First Aid Rep to attain to any Incident in the event they occur during your Tour. &nbsp;</span><br><br><span style=\"font-style: normal;\"><b>&nbsp;Annual Cultural Events&nbsp;&nbsp;</b></span><br>&nbsp;(1) East New Britain National Mask &amp; Warwagira Festival 12th - 16th July.<br>(2) The Famous Rabaul Frangipani Festival held in Rabaul 15th - 19th September .<br>",
+          "text": "<span style=\"font-style: normal;\"><br>Feel inspired by Rabaul’s stunning scenery, huge range of activities and renowned warm welcome. Surrounded by majestic islands and set on the shores of crystal clear seas, the natural beauty and the unique energy of the region create the perfect backdrop for a holiday full of discovery, and rejuvenation. \n<br>You’ll find everything you need to plan your next trip to Rabaul, from accommodation options to the endless array of activities and attractions, as well as a full calendar of events for the year 2018.\n<br><br>We offer services varying from the guided tours, to exclusive activities while you are here in Rabaul. Tours, Excursions, and Events, Beehives Discovery Tours is your solution to a stress-free vacation. &nbsp;<br>We aim to bring services to your doorstep Our motto is simple!!!\n<br>“You choose and we make it possible at your convenience” everything is all about you.</span><br><br><b>Beehives History</b><br><span style=\"font-style: normal;\">Beehive use to be a Fishing Zone for the Fisherman where they kept Canned wiven Fish Traps, fishing nets, &nbsp;and they had their houses, Beehives welcomes you to Rabaul and farwells you after exploring.</span><br><br><span style=\"font-style: normal;\"><b>Rabaul History</b></span><br><span style=\"font-style: normal;\">Rabaul is better known as (Rababaul) in our Kuanua language meaning  \"The Mangroves\". We come from a Melanesian Metrilian Society were the woman are rulers which they owns the Land and Clans. We speak the Kuanua Language and we are known as the Kuanua people of Rabaul and NOT the Tolais, Tolai in Kuanua meaning \"My Friend\" just a slang used in the early 1960s .&nbsp;<br></span><br><b style=\"font-style: normal;\">Duty of Care</b><br><span style=\"font-style: normal;\">Beehives Discovery Tours has a Safety  obligation which is to make Sure your Rabaul Land Tour  is all safe according to our Checklist; &nbsp;</span><br><span style=\"font-style: normal;\">(1) Drivers are being Breathalyser for Alcohol free Zero Tolerance that ensures Tourist are Safe. &nbsp;<br>(2) We also provide Cone Barricade for Parallel Parking</span><br><span style=\"font-style: normal;\">(3) We Provide Life Jackets for those who prefer Boat Cruise </span><br><span style=\"font-style: normal;\">(4)&nbsp;We Provide a First Aid Kit for minor and major injuries and also A competent senior  First Aid Rep onboard to attain to any Incident would occur during the Tour.</span><br><span style=\"font-style: normal;\">(5) We also provide a utility to transport wheelchairs<br></span><br><span style=\"font-style: normal;\"><b>&nbsp;Annual Cultural Events&nbsp;&nbsp;</b></span><br>&nbsp;(1) East New Britain National Mask &amp; Warwagira Festival 12th - 16th July, 2018.<br>(2) The Famous Rabaul Frangipani Festival held in Rabaul 15th - 19th September , 2018.<br><b>Note: </b>Beehives Discovery Tours is proud to be also a sponsor of Rabaul Frangipani Festival<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -502,7 +425,7 @@
             "showButtons": false,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "columns": 4,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -529,7 +452,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20170805-2914-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20170413-2416-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -540,7 +463,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2017-09-17-10h14m08s183-600x450.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20170422-2478-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -551,7 +474,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20170422-2478-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-8703-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -578,16 +501,16 @@
           },
           "title1": "Rabaul Tours at $50 per adult &amp; Kids below 12 years FREE with 2 hours maximum time.&nbsp;",
           "subtitle1": "Sites to be visited are&nbsp;",
-          "caption1": "<b>(1)</b> Montevideo Maru \n<br><b> (2)</b> Memorial Hot Spring (Rababa) looking towards Mt Tavurvur \n<br><b> (3)</b> Sally Bomber Plane Wreck<br><b> (4)</b> Rabaul Volcano Observatory Look Out\n<br><b>(5)</b> Rabaul Museum (New Guinea Club) Yamamoto Bunkers Rabaul",
+          "caption1": "<b>(1)</b> Montevideo Maru  Memorial \n<br><b> (2)&nbsp;</b>Hot Spring (Rababa) looking towards Mt Tavurvur \n<br><b> (3)</b> Sally Bomber Plane Wreck<br><b>(4)</b> Rabaul Museum (New Guinea Club) Yamamoto Bunkers Rabaul<br><b>(5) </b>Rabaul Volcano Observatory Look Out&nbsp;<br>",
           "title2": "Kokopo Tours at $60 per Adult &amp; Kids below 12 years FREE with 3 hours maximum time.",
           "subtitle2": "Sites to be visited are",
-          "caption2": "<b>(1)</b>&nbsp;               Japanese Barge Tunnel                  &amp; Underground hospital<br><b>(2)</b>&nbsp;East New Britain War Museum<br>&nbsp;<b>(3)</b>Queen Emma Step Ladder remaining<br><b>(4)</b>&nbsp;Korean War Cemetery &amp; Australian War Cemetery (Bitapaka)           ",
-          "title3": "Cultural Festivals in Rabaul at $30 per adult &amp; Kids below 12 years FREE &nbsp;with 2 hours &nbsp; maximum time",
+          "caption2": "<b>(1)</b>&nbsp;               Japanese Barge Tunnel                  &amp; Underground hospital<br><b>(2)</b>&nbsp;East New Britain Museum<br>&nbsp;<b>(3)&nbsp;</b>Queen Emma Step Ladder remaining<br><b>(4)</b>&nbsp;Korean War Cemetery &amp; Australian War Cemetery (Bitapaka)           ",
+          "title3": "Missionary Tours at $50 per adult &amp; Kids below 12 years FREE with 2 hours maximum time",
           "subtitle3": "Sites to be visited are",
-          "caption3": "<b>(1) </b>Beehives Tours a Sponsor of Frangipani Festival<br><b>(2)&nbsp;</b>  Female &amp; Male Dance (host by Beehives)<br><b>(3)&nbsp;</b>Tatakila &amp;Tera both Tumbuans of Matupit Island Dancing<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
-          "title4": "Missionary Tours at $50 per adult &amp; Kids below 12 years FREE with 2 hours maximum time",
+          "caption3": "(<b>1</b>)  Matupit John Wesley Methodist Church\n<br><b>(2)</b> Catholic Mission First arrived in Matupit Island in 1885\n<br><b>(4)</b> Arrival of SDA Church Matupit Island June 4th 1929<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+          "title4": "",
           "subtitle4": "Sites to be visited are",
-          "caption4": "<b>(1)&nbsp;</b>     Methodist Church at Kabakada<br> <b>(2)&nbsp;</b>Catholic Mission First arrived in Matupit Island in 1885<br><b>(3)&nbsp;</b>Matupit John Wesley Methodist Church<br><b>(4) </b>Arrival of SDA Church Matupit Island June 29th 1929<br><br>                         <br><br>",
+          "caption4": "<br><br>                         <br><br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -636,7 +559,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-8832-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beehives-snorkeling-site-600x413.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -647,7 +570,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-184-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mt-tav-600x457.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -669,7 +592,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-8875-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2017-09-17-10h14m08s183-600x450.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -696,16 +619,16 @@
           },
           "title1": "Boat Cruise &amp; Snorkeling at $50 per adult &amp; Kids below 12 years FREE with 2 hours maximum time.",
           "subtitle1": "Sites to visit are",
-          "caption1": "<b>(1)&nbsp;</b>Hotsprin&nbsp;<br><b>(2) </b>Alone Volcano cost line<b><br>(3)&nbsp;</b>Beehives Snorkeling Site<br><b>(4)&nbsp;</b>Matupit Isnald&nbsp;<br>and back to hotsprin<br><br><br>",
+          "caption1": "<b>(1)&nbsp;</b>Hotspring&nbsp;<br><b>(2) </b>Along Volcano coast line<b><br>(3)&nbsp;</b>Beehives Snorkeling Site<br><b>(4)&nbsp;</b>Matupit Island&nbsp;and back to hotspring.<br><b>Note</b>: life jackets is provided, and do book in advnace for 10 people tour.<br><br><br>",
           "title2": "Volcano Climbing (Tavurvur) at $60 per adult &amp; Kids below 12 years FREE with 3 hours maximum time.",
           "subtitle2": "Sites to visit are",
-          "caption2": "<b>(1)</b> Mt  Tavurvur <br><b>(2) </b>Mt Daughter  (Rabalanakaia)",
-          "title3": "Rabaul See It All &nbsp;at $ 90 &amp; Kids below 12 years FREE with 4 Hours time",
+          "caption2": "<b>(1)</b> Mt  Tavurvur <br><br>",
+          "title3": "Rabaul See It All &nbsp;at $90 &amp; Kids below 12 years FREE with 4 Hours time",
           "subtitle3": "Sites to visit are",
-          "caption3": "Hot Spring(Rababa), Montevideo Mar Yamamoto Bunker,&nbsp;Rabaul Volcano Observatory, Underground Hospital, Chinese Cemetery, Barge Tunnel, British Crane, Blue Lagoon Japanese Caves, &nbsp; Queen Emma's Grave Yard, EAST New Britain Museum, Queen Emma's Step ladder, &nbsp;Australian War Cemetery &amp; Kokopo Market. <i>End of visit and &amp; back to the Ship.</i>",
-          "title4": "Melanesian Experience \n<div>at $ 80 &amp; Kids below 12 years FREE with 4 Hours time</div>",
+          "caption3": "Hot Spring(Rababa), Montevideo Maru Yamamoto Bunker,&nbsp;Rabaul Volcano Observatory, Underground Hospital, Chinese Cemetery, Barge Tunnel, British Crane (drive through only), Blue Lagoon lookout &amp; Japanese Caves (drive through only),East New Britain Museum, Queen Emma's Step ladder, &nbsp;Australian War Cemetery &amp; Kokopo Market. <i>End of tour &amp; back to the Ship.</i><br><i><b>Note</b>:&nbsp;</i>we have a lot more sites for you to visit at an affordable rate at no rush.&nbsp;",
+          "title4": "Melanesian Experience \n<div>at $80 &amp; Kids below 12 years FREE with 4 Hours time</div>",
           "subtitle4": "Sites to visit are",
-          "caption4": "Australian War Cementry<br>East New Britan Museum<br>Rabaul Volcano Observetry<br>Tavui Point Submarin Base<br>Hot Spring &amp; Volcano scenic<br>Melanisean Tropical Lunch &amp;<br>&nbsp; &nbsp; watch two variety traditional dance with other activities.&nbsp;<i>End of visit and &amp; back to the Ship.</i>",
+          "caption4": "Australian War Cementry<br>East New Britan Museum<br>Rabaul Volcano Observetry<br>Tavui Point Submarin Base<br>Hot Spring &amp; Volcano scenic<br>Melanisean Tropical Lunch &amp;<br>&nbsp; &nbsp; watch two variety traditional dance with other activities.&nbsp;<i>End of visit &amp; back to the Ship.</i>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -743,7 +666,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>RABAUL CITY \n<br>East New Britain Province&nbsp;<br><br><br>\n<strong>Contacts</strong><br>P.O. BOX 2\n<br>RABAUL CITY\n<br>East New Britain Province\n<br>Digicel: + (675) 73623650\n<br>Em: beehivesdiscovery@gmail.com\n<br>www.beehivesdiscoverytours.com&nbsp;<br>",
+          "text1": "<strong>Address</strong><br>P.O. BOX 2 \n<br>RABAUL CITY \n<br>East New Britain Province&nbsp;<br><br><br>\n<strong>Contacts</strong><br>&nbsp;Digicel: + (675) 73623650\n<br>Em: beehivesdiscovery@gmail.com\n<br>www.beehivesdiscoverytours.com&nbsp;<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Rabaul Accomadations</li><li>Download Rabaul town map</li><li>Download travel Iternary</li></ul>",
           "_tags": [
             "Theme"
@@ -962,7 +885,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>RABAUL CITY \n<br>East New Britain Province&nbsp;<br><br><br>\n<strong>Contacts</strong><br>P.O. BOX 2\n<br>RABAUL CITY\n<br>East New Britain Province\n<br>Digicel: + (675) 73623650\n<br>Em: beehivesdiscovery@gmail.com\n<br>www.beehivesdiscoverytours.com&nbsp;<br>",
+          "text1": "<strong>Address</strong><br>P.O. BOX 2 \n<br>RABAUL CITY \n<br>East New Britain Province&nbsp;<br><br><br>\n<strong>Contacts</strong><br>&nbsp;Digicel: + (675) 73623650\n<br>Em: beehivesdiscovery@gmail.com\n<br>www.beehivesdiscoverytours.com&nbsp;<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Rabaul Accomadations</li><li>Download Rabaul town map</li><li>Download travel Iternary</li></ul>",
           "_tags": [
             "Theme"
@@ -1202,7 +1125,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>RABAUL CITY \n<br>East New Britain Province&nbsp;<br><br><br>\n<strong>Contacts</strong><br>P.O. BOX 2\n<br>RABAUL CITY\n<br>East New Britain Province\n<br>Digicel: + (675) 73623650\n<br>Em: beehivesdiscovery@gmail.com\n<br>www.beehivesdiscoverytours.com&nbsp;<br>",
+          "text1": "<strong>Address</strong><br>P.O. BOX 2 \n<br>RABAUL CITY \n<br>East New Britain Province&nbsp;<br><br><br>\n<strong>Contacts</strong><br>&nbsp;Digicel: + (675) 73623650\n<br>Em: beehivesdiscovery@gmail.com\n<br>www.beehivesdiscoverytours.com&nbsp;<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Rabaul Accomadations</li><li>Download Rabaul town map</li><li>Download travel Iternary</li></ul>",
           "_tags": [
             "Theme"
@@ -1541,7 +1464,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Services We Provide<br>",
-          "text": "<span style=\"font-style: normal;\">The Excursion that are readily available are listed on our website, however we shall tailor make your own excursion upon your request according to your budget.\n</span><br>\n<br><span style=\"font-style: normal;\">​Private Car Tours &amp; Sight seeing , Uber Taxi Services available, Boat Cruise trip, Volcano Mountain Climbing Hiking, Fishing Trip, Snorkeling Trips and The Famous Rabaul’s Tourist Cultural &amp; Arts Exhibition Show.&nbsp;</span>",
+          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">The Excursion that are readily available are listed on our website, however we shall tailor make your own excursion upon your request according to your budget.\n</span><br><br><span style=\"font-style: normal;\">We have selected for you the best Door to Door excursions to discover or remind you of Rabaul with the outmost quality and comfort, in order to make your trip here as memorable and enjoyable as possible. \n<br>The most rewarding way to experience and learn about Rabaul is to go on a sightseeing tour; therefore we have organized everything you need for your visits: \n<br></span><br><span style=\"font-style: normal;\">​Private Car Tours &amp; Sight seeing , Uber Taxi Services available, Boat Cruise trip, Volcano Mountain Climbing Hiking, Fishing Trip, Snorkeling Trips and The Famous Rabaul’s Tourist Cultural &amp; Arts Exhibition Show.&nbsp;</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -1581,7 +1504,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>RABAUL CITY \n<br>East New Britain Province&nbsp;<br><br><br>\n<strong>Contacts</strong><br>P.O. BOX 2\n<br>RABAUL CITY\n<br>East New Britain Province\n<br>Digicel: + (675) 73623650\n<br>Em: beehivesdiscovery@gmail.com\n<br>www.beehivesdiscoverytours.com&nbsp;<br>",
+          "text1": "<strong>Address</strong><br>P.O. BOX 2 \n<br>RABAUL CITY \n<br>East New Britain Province&nbsp;<br><br><br>\n<strong>Contacts</strong><br>&nbsp;Digicel: + (675) 73623650\n<br>Em: beehivesdiscovery@gmail.com\n<br>www.beehivesdiscoverytours.com&nbsp;<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>Rabaul Accomadations</li><li>Download Rabaul town map</li><li>Download travel Iternary</li></ul>",
           "_tags": [
             "Theme"
