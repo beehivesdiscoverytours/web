@@ -16,7 +16,7 @@
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
       },
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 90,
+    "uniqCompNum": 101,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": ""
@@ -93,12 +93,12 @@
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": false,
+            "fullWidth": true,
             "spacing": 1,
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "fff",
+            "bgColor": "#7e9b9f",
             "showText": false,
             "filter": true,
             "images": [
@@ -256,6 +256,122 @@
           "_anchor": "gallery4-2h"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "19px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0895-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#90a878",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br>What Beehives Discovery Tours has to offer&nbsp;",
+          "text": "<p>Feel inspired by Rabaul’s stunning scenery, huge range of activities and renowned warm welcome. Surrounded by majestic islands and set on the shores of crystal clear seas, the natural beauty and the unique energy of the region create the perfect backdrop for a holiday full of discovery, and rejuvenation. \n<span style=\"font-size: 1.07rem;\">You’ll find everything you need to plan your next trip to Rabaul, from accommodation options to the endless array of activities and attractions, as well as a full calendar of events for the year 2018.&nbsp;</span><span style=\"font-size: 1.07rem;\">We offer services varying from the guided tours, to exclusive activities while you are here in Rabaul. Tours, Excursions, and Events, Beehives Discovery Tours is your solution to a stress-free vacation. &nbsp;&nbsp;</span><span style=\"font-size: 1.07rem;\">We aim to bring services to your doorstep Our motto is simple!!! &nbsp;</span><span style=\"font-size: 1.07rem;\">“You choose and we make it possible at your convenience” everything is all about you.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><b>Beehives History</b></span></p><p><span style=\"font-size: 1.07rem;\">Beehive use to be a Fishing Zone for the Fisherman where they kept Canned wiven Fish Traps, fishing nets, and they had their houses, Beehives welcomes you to Rabaul and farwells you after exploring.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Rabaul History</b></span></p><p><span style=\"font-size: 1.07rem;\">Rabaul is a township in East New Britain province, on the island of New Britain, in the country of Papua New Guinea. New Britain is an island about 60 kilometers to the east of the island of New Guinea.</span><span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">East New Britain is a province of Papua New Guinea, consisting of the north-eastern part of the island of New Britain and the Duke of York Islands. The capital of the province is Kokopo, not far from the old capital of Rabaul, which was largely destroyed in a volcanic eruption in 1994. East New Britain covers a total land area of 15,816 square kilometers (6,107 sq mi), and the province's population was reported as 220,133 in the 2000 census, rising to 500,369 in the 2011 count.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">\n</span><span style=\"font-size: 1.07rem;\">Provincial coastal waters extend over an area of 104,000 square meters (26 acres). The province's only land border is with West New Britain Province to the west, and it also shares a maritime border with New Ireland Province to the east.&nbsp;</span><span style=\"font-size: 1.07rem;\">There are sixteen Austronesian languages spoken in the province, of which Kuanua, spoken by the Tolai on the Gazelle Peninsula is the most widely spoken. &nbsp;</span><span style=\"font-size: 1.07rem;\">Rabaul is better known as (Rababaul) in our Kuanua language meaning \"The Mangroves\". We come from a Melanesian Matrilineal Society were the woman is rulers which they own the Land and Clans. We speak the Kuanua Language and we are known as the Kuanua people of Rabaul and NOT the Tolais. Tolai in Kuanua meaning \"My Friend\" is just a slang used in the early 1960s. &nbsp;&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">The people of East New Britain are culturally diversified, with rich and unique traditions. The \"tumbuan\", featured in many cultural dress costumers, signifies spiritual dancers and traditional ceremonies. The Tolai people of the Gazelle Peninsula have continued to use the traditional shell money called \"tabu\".&nbsp;</span><span style=\"font-size: 1.07rem;\">East New Britain has a bit of everything; colonial and war exciting wilderness and a great local culture, Rabaul sits at the base of an extinct volcanic caldron which has to be most famous for its active volcanoes and its world class diving geographical sites. &nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2o"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dscn0895-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Duty of Care",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Beehives Discovery Tours has a Safety obligation which is to make Sure your Rabaul Land Tour is all safe according to our safety Checklist; &nbsp;&nbsp;</span><br></p><p>(1) Drivers are being Breathalyzer for Alcohol-free Zero Tolerance that ensures Tourists are Safe.  \n</p><p>(2) We also provide Cone Barricade for Parallel Parking\n</p><p>(3) We Provide Life Jackets for those who prefer Boat Cruise\n</p><p>(4) We Provide a First Aid Kit for minor and major injuries and also A competent senior First Aid Rep onboard to attain to any Incident would occur during the Tour.\n</p><p>(5) We also provide a utility to transport wheelchairs&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle B": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#90a878"
+          },
+          "title": "Annual Cultural Events &nbsp;",
+          "meta": "<span style=\"font-style: normal;\">(1) East New Britain National Mask &amp; Warwagira Festival 12th - 16th July, 2018.\n</span><br><span style=\"font-style: normal;\">(2) The Famous Rabaul Frangipani Festival held in Rabaul 15th - 19th September , 2018.\n</span><br><span style=\"font-style: normal;\"><b>Note</b><b>: </b>Beehives Discovery Tours is proud to be also a sponsor of Rabaul Frangipani Festival.</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2r"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -345,56 +461,6 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Welcome to Beehives Discovery Tours Website</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-0"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-8835-640x480.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#90a878",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "What Beehives Discovery Tours has to offer&nbsp;",
-          "text": "<span style=\"font-style: normal;\"><br>Feel inspired by Rabaul’s stunning scenery, huge range of activities and renowned warm welcome. Surrounded by majestic islands and set on the shores of crystal clear seas, the natural beauty and the unique energy of the region create the perfect backdrop for a holiday full of discovery, and rejuvenation. \n<br>You’ll find everything you need to plan your next trip to Rabaul, from accommodation options to the endless array of activities and attractions, as well as a full calendar of events for the year 2018.\n<br><br>We offer services varying from the guided tours, to exclusive activities while you are here in Rabaul. Tours, Excursions, and Events, Beehives Discovery Tours is your solution to a stress-free vacation. &nbsp;<br>We aim to bring services to your doorstep Our motto is simple!!!\n<br>“You choose and we make it possible at your convenience” everything is all about you.</span><br><br><b>Beehives History</b><br><span style=\"font-style: normal;\">Beehive use to be a Fishing Zone for the Fisherman where they kept Canned wiven Fish Traps, fishing nets, &nbsp;and they had their houses, Beehives welcomes you to Rabaul and farwells you after exploring.</span><br><br><span style=\"font-style: normal;\"><b>Rabaul History</b></span><br><span style=\"font-style: normal;\">Rabaul is better known as (Rababaul) in our Kuanua language meaning  \"The Mangroves\". We come from a Melanesian Metrilian Society were the woman are rulers which they owns the Land and Clans. We speak the Kuanua Language and we are known as the Kuanua people of Rabaul and NOT the Tolais, Tolai in Kuanua meaning \"My Friend\" just a slang used in the early 1960s .&nbsp;<br></span><br><b style=\"font-style: normal;\">Duty of Care</b><br><span style=\"font-style: normal;\">Beehives Discovery Tours has a Safety  obligation which is to make Sure your Rabaul Land Tour  is all safe according to our Checklist; &nbsp;</span><br><span style=\"font-style: normal;\">(1) Drivers are being Breathalyser for Alcohol free Zero Tolerance that ensures Tourist are Safe. &nbsp;<br>(2) We also provide Cone Barricade for Parallel Parking</span><br><span style=\"font-style: normal;\">(3) We Provide Life Jackets for those who prefer Boat Cruise </span><br><span style=\"font-style: normal;\">(4)&nbsp;We Provide a First Aid Kit for minor and major injuries and also A competent senior  First Aid Rep onboard to attain to any Incident would occur during the Tour.</span><br><span style=\"font-style: normal;\">(5) We also provide a utility to transport wheelchairs<br></span><br><span style=\"font-style: normal;\"><b>&nbsp;Annual Cultural Events&nbsp;&nbsp;</b></span><br>&nbsp;(1) East New Britain National Mask &amp; Warwagira Festival 12th - 16th July, 2018.<br>(2) The Famous Rabaul Frangipani Festival held in Rabaul 15th - 19th September , 2018.<br><b>Note: </b>Beehives Discovery Tours is proud to be also a sponsor of Rabaul Frangipani Festival<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-p",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#000000",
-              "text-align": "center",
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
-            },
-            ".mbr-section-title": {
-              "font-size": "30px",
-              "text-align": "center",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-section-lead B": {
-              "color": "#ffffff",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "30px"
-            }
-          }
         },
         {
           "_styles": {
@@ -504,7 +570,7 @@
           "caption1": "<b>(1)</b> Montevideo Maru  Memorial \n<br><b> (2)&nbsp;</b>Hot Spring (Rababa) looking towards Mt Tavurvur \n<br><b> (3)</b> Sally Bomber Plane Wreck<br><b>(4)</b> Rabaul Museum (New Guinea Club) Yamamoto Bunkers Rabaul<br><b>(5) </b>Rabaul Volcano Observatory Look Out&nbsp;<br>",
           "title2": "Kokopo Tours at $60 per Adult &amp; Kids below 12 years FREE with 3 hours maximum time.",
           "subtitle2": "Sites to be visited are",
-          "caption2": "<b>(1)</b>&nbsp;               Japanese Barge Tunnel                  &amp; Underground hospital<br><b>(2)</b>&nbsp;East New Britain Museum<br>&nbsp;<b>(3)&nbsp;</b>Queen Emma Step Ladder remaining<br><b>(4)</b>&nbsp;Korean War Cemetery &amp; Australian War Cemetery (Bitapaka)           ",
+          "caption2": "<b>(1)</b>&nbsp;               Japanese Barge Tunnel                  &amp; Underground hospital<br><b>(2)</b>&nbsp;East New Britain Museum<br>&nbsp;<b>(3)&nbsp;</b>Queen Emma Step Ladder remaining<br><b>(4)</b>&nbsp;Korean War Cemetery &amp; Australian War Cemeteries (Bitapaka)           ",
           "title3": "Missionary Tours at $50 per adult &amp; Kids below 12 years FREE with 2 hours maximum time",
           "subtitle3": "Sites to be visited are",
           "caption3": "(<b>1</b>)  Matupit John Wesley Methodist Church\n<br><b>(2)</b> Catholic Mission First arrived in Matupit Island in 1885\n<br><b>(4)</b> Arrival of SDA Church Matupit Island June 4th 1929<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
@@ -625,10 +691,10 @@
           "caption2": "<b>(1)</b> Mt  Tavurvur <br><br>",
           "title3": "Rabaul See It All &nbsp;at $90 &amp; Kids below 12 years FREE with 4 Hours time",
           "subtitle3": "Sites to visit are",
-          "caption3": "Hot Spring(Rababa), Montevideo Maru Yamamoto Bunker,&nbsp;Rabaul Volcano Observatory, Underground Hospital, Chinese Cemetery, Barge Tunnel, British Crane (drive through only), Blue Lagoon lookout &amp; Japanese Caves (drive through only),East New Britain Museum, Queen Emma's Step ladder, &nbsp;Australian War Cemetery &amp; Kokopo Market. <i>End of tour &amp; back to the Ship.</i><br><i><b>Note</b>:&nbsp;</i>we have a lot more sites for you to visit at an affordable rate at no rush.&nbsp;",
+          "caption3": "Hot Spring(Rababa), Montevideo Maru Yamamoto Bunker,&nbsp;Rabaul Volcano Observatory, Underground Hospital, Chinese cemetery, Barge Tunnel, British Crane (drive through only), Blue Lagoon lookout &amp; Japanese Caves (drive through only),East New Britain Museum, Queen Emma's Step ladder, &nbsp;Australian War cemetery &amp; Kokopo Market. <i>End of tour &amp; back to the Ship.</i><br><i><b>Note</b>:&nbsp;</i>we have a lot more sites for you to visit at an affordable rate at no rush.&nbsp;",
           "title4": "Melanesian Experience \n<div>at $80 &amp; Kids below 12 years FREE with 4 Hours time</div>",
           "subtitle4": "Sites to visit are",
-          "caption4": "Australian War Cementry<br>East New Britan Museum<br>Rabaul Volcano Observetry<br>Tavui Point Submarin Base<br>Hot Spring &amp; Volcano scenic<br>Melanisean Tropical Lunch &amp;<br>&nbsp; &nbsp; watch two variety traditional dance with other activities.&nbsp;<i>End of visit &amp; back to the Ship.</i>",
+          "caption4": "Australian War cemetery<br>East New Britan Museum<br>Rabaul Volcano Observetry<br>Tavui Point Submarin Base<br>Hot Spring &amp; Volcano scenic<br>Melanisean Tropical Lunch &amp;<br>&nbsp; &nbsp; watch two variety traditional dance with other activities.&nbsp;<i>End of visit &amp; back to the Ship.</i>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -649,13 +715,133 @@
         },
         {
           "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": false,
+            "bgColor": "#90a878",
+            "timeout": "10",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171020-wa0002-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Old Beehives&nbsp;",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Original Beehives later destroyed by volcano eruptions in 1994",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171020-wa0004-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Dr. George Brown&nbsp;",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Picture of Dr. George Brown &amp; wife Lydia upon arrival at the Port Hunter, Molot Duke Of York Island Rabaul on August 15th, 1875, of Methodist Church Missionary.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/beehives-snorkeling-site-800x551.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Beehives&nbsp;",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Picture of Beehives after the volcano eruption.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/flat1000x1000075f-1000x662.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Old British Crane",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Picture of British Crane remaining. ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-8531-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Traditional cell money",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Picture of three males displaying shell money called \"tabu\".",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-8864-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "The \"tumbuan\"",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Picture of tumbuan dance featured in many cultural dress costumes, signifies spiritual dancers and traditional ceremonies.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-2s",
+          "_styles": {
+            "H2": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#7e9b9f",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -687,7 +873,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Beehives Discovry Tours.<br> Another Web Development By:<br>&nbsp;<a href=\"mailto:varatechlinks@gmail.com\" class=\"text-info\">Varatech</a>",
+          "text": "Copyright (c) 2017 Beehives Discovery Tours.<br> Another Web Development By:<br>&nbsp;<a href=\"mailto:varatechlinks@gmail.com\" class=\"text-info\">Varatech</a>",
           "_tags": [
             "Theme"
           ],
@@ -722,7 +908,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#90a878",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -874,7 +1060,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#7e9b9f",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -906,7 +1092,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Beehives Discovry Tours.<br> Another Web Development By:<br>&nbsp;<a href=\"mailto:varatechlinks@gmail.com\" class=\"text-info\">Varatech</a>",
+          "text": "Copyright (c) 2017 Beehives Discovery Tours.<br> Another Web Development By:<br>&nbsp;<a href=\"mailto:varatechlinks@gmail.com\" class=\"text-info\">Varatech</a>",
           "_tags": [
             "Theme"
           ],
@@ -1044,7 +1230,7 @@
             "overlayOpacity": 0.5
           },
           "title": "We are Beehives Discovery Tours",
-          "text": "<br><span style=\"font-style: normal;\">Beehives Discovery Tours is a Rabaul based Tour Company owned by Ms Ellen Voklus purposely to serve our Tourist visiting our shores on a more professional way. \n</span><br><span style=\"font-style: normal;\">Here we are seeking is to cater for Tourist also who book on the Princess, P&amp;O Cruise ships ,Ponant,Curnard and Costa Atlantic also who visit our website we are here to fulfil that service on behalf of our company and you pay us our package according to our rates and also Importantly we are opening the door to our operation also here in Rabaul as you know allot more Cruise ships visit Rabaul and Alotau apart from other Towns in PNG so you don’t need to stand down your referral clients because we are here to take care of them while here in Rabaul. &nbsp;</span><br>",
+          "text": "<br><span style=\"font-style: normal;\">Beehives Discovery Tours is a Rabaul based Tour Company owned by Ms. Ellen Voklus purposely to serve our Tourist visiting our shores on a more professional way.\n<br>Here we are seeking is to cater for Tourist also who book on the Princess, P&amp;O Cruise ships, Ponant, Cunard and Costa Atlantic also who visit our website we are here to fulfil that service on behalf of our company and you pay us our package according to our rates and also Importantly we are opening the door to our operation also here in Rabaul as you know allot more Cruise ships visit Rabaul and Alotau apart from other Towns in PNG so you don’t need to stand down your referral clients because we are here to take care of you while here in Rabaul. &nbsp; &nbsp;</span><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -1053,8 +1239,8 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-size": "20px",
-              "color": "#ffffff",
-              "text-align": "center",
+              "color": "#000000",
+              "text-align": "left",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
@@ -1076,6 +1262,16 @@
               "text-align": "center",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".lead": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "text-align": "left",
+              "font-size": "20px",
+              "color": "#000000"
             }
           },
           "_params": {
@@ -1088,7 +1284,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/img-20170929-3179-704x528.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#90a878",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1098,7 +1294,7 @@
             "overlayOpacity": 0.5
           },
           "title": "What Makes Us So Attractive?&nbsp;",
-          "text": "<p>Our Tour &amp; Excursion is affordable and realistic that differentiates Beehives from the rest of the other Tour Operators in Rabaul as we consider the road condition and you travelling in a group of 10 passengers bringing the cost down meaning Quantity is what you need for the lowest price. \n</p><p>Our Customer Service is more on a Western type that will make you feel home regardless the humid and dust. \n</p><p>Safety Standards that we have is at Standard including our Medical Team and Rescue Personnel who are well trained to attain to any situations during your stay here in Rabaul. \n</p><p>Communication is not an issue to us as we have 2way radios in place to communicate effectively. \n</p><p>Tour Sites, we have a common understanding with the site owners upon your visit and to avoid any inconveniences we have subsidize all the visiting sites not like other Tour Operators who don’t like to pay that and cheat their tourist taking them to only 1 or 2 sites and back to the boat we discourage this practice.<span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">DUTY OFF CARE is what Beehives Discovery Tours obligation at all time to make sure you are safe.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p>",
+          "text": "Our Tour &amp; Excursion is affordable and realistic that differentiates Beehives from the rest of the other Tour Operators in Rabaul as we consider the road condition and you traveling in a group of 10 passengers bringing the cost down meaning Quantity is what you need for the lowest price.<span style=\"font-size: 1.07rem;\">&nbsp;</span><div>Our Customer Service is more on a Western-type that will make you feel home regardless the humid and dust.<span style=\"font-size: 1.07rem;\">&nbsp;</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div>Safety Standards that we have is at Standard including our Medical Team and Rescue Personnel who are well trained to attain to any situations during your stay here in Rabaul.&nbsp;<span style=\"font-size: 1.07rem;\">Communication is not an issue to us as we have 2way radios in place to communicate effectively.</span></div><div>&nbsp;\n</div><div>Tour Sites, we have a common understanding with the site owners upon your visit and to avoid any inconveniences we have subsidized all the visiting sites, not like other Tour Operators who don’t like to pay that and cheat their tourist taking them to only 1 or 2 sites and back to the boat we discourage this practice.\n</div><div>&nbsp;\n</div><div>DUTY OFF CARE is what Beehives Discovery Tours obligation at all time to make sure you are safe.\n</div><div><br></div>",
           "_tags": [
             "Theme"
           ],
@@ -1114,7 +1310,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#7e9b9f",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1146,7 +1342,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Beehives Discovry Tours.<br> Another Web Development By:<br>&nbsp;<a href=\"mailto:varatechlinks@gmail.com\" class=\"text-info\">Varatech</a>",
+          "text": "Copyright (c) 2017 Beehives Discovery Tours.<br> Another Web Development By:<br>&nbsp;<a href=\"mailto:varatechlinks@gmail.com\" class=\"text-info\">Varatech</a>",
           "_tags": [
             "Theme"
           ],
@@ -1276,7 +1472,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Beehives Discovry Tours.<br> Another Web Development By:<br>&nbsp;<a href=\"mailto:varatechlinks@gmail.com\" class=\"text-info\">Varatech</a>",
+          "text": "Copyright (c) 2017 Beehives Discovery Tours.<br> Another Web Development By:<br>&nbsp;<a href=\"mailto:varatechlinks@gmail.com\" class=\"text-info\">Varatech</a>",
           "_tags": [
             "Theme"
           ],
@@ -1296,13 +1492,13 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#475577",
+            "bgColor": "#90a878",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Address</strong><br>RABAUL CITY \n<br>East New Britain Province&nbsp;<br><br>\n<strong>Contacts</strong><br>P.O. BOX 2\n<br>RABAUL CITY\n<br>East New Britain Province\n<br>Digicel: + (675) 73623650\n<br>Email: beehivesdiscovery@gmail.com\n<br>Website: www.beehivesdiscoverytours.com&nbsp;<br>",
+          "text1": "<strong>Address</strong><br>P.O. BOX 2 \n<br>RABAUL CITY \n<br>East New Britain Province&nbsp;<br><br>\n<strong>Contacts</strong><br>Digicel: + (675) 73623650\n<br>Email: beehivesdiscovery@gmail.com\n<br>Website: www.beehivesdiscoverytours.com&nbsp;<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Face book: beehivesdiscoverytours&nbsp;</li><li>Download Map of RabaulTown</li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1336,7 +1532,12 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-25"
+          "_anchor": "contacts4-25",
+          "_styles": {
+            "UL": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -1464,7 +1665,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Services We Provide<br>",
-          "text": "<span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">The Excursion that are readily available are listed on our website, however we shall tailor make your own excursion upon your request according to your budget.\n</span><br><br><span style=\"font-style: normal;\">We have selected for you the best Door to Door excursions to discover or remind you of Rabaul with the outmost quality and comfort, in order to make your trip here as memorable and enjoyable as possible. \n<br>The most rewarding way to experience and learn about Rabaul is to go on a sightseeing tour; therefore we have organized everything you need for your visits: \n<br></span><br><span style=\"font-style: normal;\">​Private Car Tours &amp; Sight seeing , Uber Taxi Services available, Boat Cruise trip, Volcano Mountain Climbing Hiking, Fishing Trip, Snorkeling Trips and The Famous Rabaul’s Tourist Cultural &amp; Arts Exhibition Show.&nbsp;</span>",
+          "text": "<span style=\"font-style: normal;\"><br>The Excursion that is readily available are listed on our website, however, we shall tailor make your own excursion upon your request according to your budget.\n<br>We have selected for you the best Door to Door excursions to discover or remind you of Rabaul with the utmost quality and comfort, in order to make your trip here as memorable and enjoyable as possible.\n<br>The most rewarding way to experience and learn about Rabaul is to go on a sightseeing tour; therefore we have organized everything you need for your visits:\n<br></span> \n<br><span style=\"font-style: normal;\">      Private Car Tours &amp; Sightseeing\n<br>      Uber Taxi Service available\n<br>      Boat Cruise trip\n<br>      Volcano Mountain Climbing &amp; Hiking\n<br>      Fishing Trips\n<br>      Snorkeling Trips\n<br>      The Famous Rabaul’s Tourist Cultural &amp; Arts Exhibition Show.\n<br></span>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -1493,7 +1694,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#7e9b9f",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1525,7 +1726,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2017 Beehives Discovry Tours.<br> Another Web Development By:<br>&nbsp;<a href=\"mailto:varatechlinks@gmail.com\" class=\"text-info\">Varatech</a>",
+          "text": "Copyright (c) 2017 Beehives Discovery Tours.<br> Another Web Development By:<br>&nbsp;<a href=\"mailto:varatechlinks@gmail.com\" class=\"text-info\">Varatech</a>",
           "_tags": [
             "Theme"
           ],
