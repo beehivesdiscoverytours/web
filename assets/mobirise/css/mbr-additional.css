@@ -537,7 +537,13 @@ h6,
   text-align: left;
 }
 #slider3-2s H2 {
-  font-size: 30px;
+  font-size: 24px;
+}
+#slider3-2s SPAN {
+  font-size: 19px;
+}
+#slider3-2s P {
+  font-size: 20px;
 }
 #footer1-i P {
   color: #000000;

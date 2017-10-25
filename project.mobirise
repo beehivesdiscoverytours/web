@@ -151,11 +151,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-20170413-2417-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170413-2417-640x480-640x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20171025-wa0000-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20171025-wa0000-640x480-640x480.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Montie Video Maru",
@@ -195,8 +195,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/banker2-640x473.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/banker2-640x473-640x473.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20171025-wa0001-480x527.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20171025-wa0001-480x527-480x527.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -239,11 +239,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/img-20170413-2419-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20170413-2419-640x480-640x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20171025-wa0004-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20171025-wa0004-640x480-640x480.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -291,7 +291,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<br>What Beehives Discovery Tours has to offer&nbsp;",
-          "text": "<p>Feel inspired by Rabaul’s stunning scenery, huge range of activities and renowned warm welcome. Surrounded by majestic islands and set on the shores of crystal clear seas, the natural beauty and the unique energy of the region create the perfect backdrop for a holiday full of discovery, and rejuvenation. \n<span style=\"font-size: 1.07rem;\">You’ll find everything you need to plan your next trip to Rabaul, from accommodation options to the endless array of activities and attractions, as well as a full calendar of events for the year 2018.&nbsp;</span><span style=\"font-size: 1.07rem;\">We offer services varying from the guided tours, to exclusive activities while you are here in Rabaul. Tours, Excursions, and Events, Beehives Discovery Tours is your solution to a stress-free vacation. &nbsp;&nbsp;</span><span style=\"font-size: 1.07rem;\">We aim to bring services to your doorstep Our motto is simple!!! &nbsp;</span><span style=\"font-size: 1.07rem;\">“You choose and we make it possible at your convenience” everything is all about you.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><b>Beehives History</b></span></p><p><span style=\"font-size: 1.07rem;\">Beehive use to be a Fishing Zone for the Fisherman where they kept Canned wiven Fish Traps, fishing nets, and they had their houses, Beehives welcomes you to Rabaul and farwells you after exploring.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Rabaul History</b></span></p><p><span style=\"font-size: 1.07rem;\">Rabaul is a township in East New Britain province, on the island of New Britain, in the country of Papua New Guinea. New Britain is an island about 60 kilometers to the east of the island of New Guinea.</span><span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">East New Britain is a province of Papua New Guinea, consisting of the north-eastern part of the island of New Britain and the Duke of York Islands. The capital of the province is Kokopo, not far from the old capital of Rabaul, which was largely destroyed in a volcanic eruption in 1994. East New Britain covers a total land area of 15,816 square kilometers (6,107 sq mi), and the province's population was reported as 220,133 in the 2000 census, rising to 500,369 in the 2011 count.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">\n</span><span style=\"font-size: 1.07rem;\">Provincial coastal waters extend over an area of 104,000 square meters (26 acres). The province's only land border is with West New Britain Province to the west, and it also shares a maritime border with New Ireland Province to the east.&nbsp;</span><span style=\"font-size: 1.07rem;\">There are sixteen Austronesian languages spoken in the province, of which Kuanua, spoken by the Tolai on the Gazelle Peninsula is the most widely spoken. &nbsp;</span><span style=\"font-size: 1.07rem;\">Rabaul is better known as (Rababaul) in our Kuanua language meaning \"The Mangroves\". We come from a Melanesian Matrilineal Society were the woman is rulers which they own the Land and Clans. We speak the Kuanua Language and we are known as the Kuanua people of Rabaul and NOT the Tolais. Tolai in Kuanua meaning \"My Friend\" is just a slang used in the early 1960s. &nbsp;&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">The people of East New Britain are culturally diversified, with rich and unique traditions. The \"tumbuan\", featured in many cultural dress costumers, signifies spiritual dancers and traditional ceremonies. The Tolai people of the Gazelle Peninsula have continued to use the traditional shell money called \"tabu\".&nbsp;</span><span style=\"font-size: 1.07rem;\">East New Britain has a bit of everything; colonial and war exciting wilderness and a great local culture, Rabaul sits at the base of an extinct volcanic caldron which has to be most famous for its active volcanoes and its world class diving geographical sites. &nbsp;</span></p>",
+          "text": "<p>Feel inspired by Rabaul’s stunning scenery, huge range of activities and renowned warm welcome. Surrounded by majestic islands and set on the shores of crystal clear seas, the natural beauty and the unique energy of the region create the perfect backdrop for a holiday full of discovery, and rejuvenation. \n<span style=\"font-size: 1.07rem;\">You’ll find everything you need to plan your next trip to Rabaul, from accommodation options to the endless array of activities and attractions, as well as a full calendar of events for the year 2018.&nbsp;</span><span style=\"font-size: 1.07rem;\">We offer services varying from the guided tours, to exclusive activities while you are here in Rabaul. Tours, Excursions, and Events, Beehives Discovery Tours is your solution to a stress-free vacation. &nbsp;&nbsp;</span><span style=\"font-size: 1.07rem;\">We aim to bring services to your doorstep Our motto is simple!!! &nbsp;</span><span style=\"font-size: 1.07rem;\">“You choose and we make it possible at your convenience” everything is all about you.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><b>Beehives History</b></span></p><p><span style=\"font-size: 1.07rem;\">Beehive use to be a fishing zone for the fisherman where they kept canned wiven fish traps, fishing nets, and they had their houses, Beehives welcomes you to Rabaul and farwells you after exploring.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Rabaul History</b></span></p><p><span style=\"font-size: 1.07rem;\">Rabaul is a township in East New Britain province, on the island of New Britain, in the country of Papua New Guinea. New Britain is an island about 60 kilometers to the east of the island of New Guinea.</span><span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">East New Britain is a province of Papua New Guinea, consisting of the north-eastern part of the island of New Britain and the Duke of York Islands. The capital of the province is Kokopo, 40km from the old capital of Rabaul which was know as the first city of new guinea during the colonial era and was largely destroyed during the twin volcanic eruption in 1994.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">East New Britain covers a total land area of 15,816 square kilometers (6,107 sq mi), and the province's population was reported as 220,133 in the 2000 census, rising to 500,000 approximately in the 2017 count. Provincial coastal waters extend over an area of 104,000 square meters (26 acres). The province's only land border is with West New Britain Province to the west, and it also shares a maritime border with New Ireland Province to the east.&nbsp;</span><span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">Rabaul is better known as (Rababaul) in our Kuanua language meaning \"The Mangroves\". We come from a Melanesian Matrilineal Society where the woman is rulers and own the Land and Clans. We speak the Kuanua Language and we are known as the Kuanua people of Rabaul and NOT the Tolais. Tolai in Kuanua meaning \"My Friend\" is just a slang used in the early 1960s. &nbsp;&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">The people of East New Britain are culturally diversified, with rich and unique traditions. The \"tumbuan\", featured in many cultural dress costumers, signifies spiritual dancers and traditional ceremonies. The Kuanua people of the Gazelle Peninsula have continued to use the traditional shell money called \"tabu\".&nbsp;</span><span style=\"font-size: 1.07rem;\">East New Britain has a bit of everything; colonial and war exciting wilderness and a great local culture, Rabaul sits at the base of an extinct volcanic caldron which has to be most famous for its active volcanoes and its world class diving geographical sites. &nbsp;</span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 17.12px;\"><b>Common Languages Used:</b></span></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 17.12px;\"><b>IN Kuanua<i>: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</i>IN&nbsp;</b></span><span style=\"font-size: 17.12px;\"><b>English<i>: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </i></b></span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 17.12px;\">AWARWAGAI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HELLO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MALANA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MORNING &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BOINA KEAKA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;GOOD DAY &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>&nbsp;&nbsp;<span style=\"font-size: 17.12px;\">TAWA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;WATER &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BOINA TUNA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;THANK YOU &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; UNA MAI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;YOU COME &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; PATA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 17.12px;\">&nbsp; ALA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;YES &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; YAURO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;OK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; YOKO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; GOOD BYE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>&nbsp;&nbsp;<span style=\"font-size: 17.12px;\">MARUM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;NIGHT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; KOKO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DONT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ARURUT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; HURRY UP &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MOMO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DRINK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; YAN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;EAT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><b style=\"font-size: 17.12px;\">NUMBERS:</b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 17.12px;\">TIKAI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ONE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 17.12px;\"><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AURUA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TWO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AUTUL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;THREE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AIWAT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FOUR &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AILIMA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;FIVE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ALAPIKAI &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SIX &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ALAVURUA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; SEVEN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ALAVUVAT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;EIGHT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; AVINUN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;TEN</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -330,7 +330,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "Duty of Care",
-          "text": "<p><span style=\"font-size: 1.07rem;\">Beehives Discovery Tours has a Safety obligation which is to make Sure your Rabaul Land Tour is all safe according to our safety Checklist; &nbsp;&nbsp;</span><br></p><p>(1) Drivers are being Breathalyzer for Alcohol-free Zero Tolerance that ensures Tourists are Safe.  \n</p><p>(2) We also provide Cone Barricade for Parallel Parking\n</p><p>(3) We Provide Life Jackets for those who prefer Boat Cruise\n</p><p>(4) We Provide a First Aid Kit for minor and major injuries and also A competent senior First Aid Rep onboard to attain to any Incident would occur during the Tour.\n</p><p>(5) We also provide a utility to transport wheelchairs&nbsp;</p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Beehives Discovery Tours has a safety obligation to make sure your Rabaul Land Tour is all safe according to our safety Checklist; &nbsp; &nbsp;</span><br></p><p>(1) Drivers are being Breathalyzer for alcohol-free zero tolerance that ensures Tourists are safe.  \n</p><p>(2) Barricade cones placed for parallel parking.</p><p>(3) Life Jackets provided for those who prefer Boat Cruise.</p><p>(4) First Aid Kit assistance for minor and major injuries and also A competent senior First Aid Rep &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;onboard to attain to any incident may occur during the Tour.</p><p>(5) Utility car provided to transport wheelchairs.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -529,7 +529,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-20170422-2478-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-20171024-wa0012-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -565,7 +565,7 @@
               "active": true
             }
           },
-          "title1": "Rabaul Tours at $50 per adult &amp; Kids below 12 years FREE with 2 hours maximum time.&nbsp;",
+          "title1": "Rabaul Tours at $50 per adult &amp; Kids below 12 years FREE with 2 hours maximum time, 15 km.&nbsp;",
           "subtitle1": "Sites to be visited are&nbsp;",
           "caption1": "<b>(1)</b> Montevideo Maru  Memorial \n<br><b> (2)&nbsp;</b>Hot Spring (Rababa) looking towards Mt Tavurvur \n<br><b> (3)</b> Sally Bomber Plane Wreck<br><b>(4)</b> Rabaul Museum (New Guinea Club) Yamamoto Bunkers Rabaul<br><b>(5) </b>Rabaul Volcano Observatory Look Out&nbsp;<br>",
           "title2": "Kokopo Tours at $60 per Adult &amp; Kids below 12 years FREE with 3 hours maximum time.",
@@ -573,7 +573,7 @@
           "caption2": "<b>(1)</b>&nbsp;               Japanese Barge Tunnel                  &amp; Underground hospital<br><b>(2)</b>&nbsp;East New Britain Museum<br>&nbsp;<b>(3)&nbsp;</b>Queen Emma Step Ladder remaining<br><b>(4)</b>&nbsp;Korean War Cemetery &amp; Australian War Cemeteries (Bitapaka)           ",
           "title3": "Missionary Tours at $50 per adult &amp; Kids below 12 years FREE with 2 hours maximum time",
           "subtitle3": "Sites to be visited are",
-          "caption3": "(<b>1</b>)  Matupit John Wesley Methodist Church\n<br><b>(2)</b> Catholic Mission First arrived in Matupit Island in 1885\n<br><b>(4)</b> Arrival of SDA Church Matupit Island June 4th 1929<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+          "caption3": "(<b>1</b>)  The John Wesley Methodist Church\n<br><b>(2)</b> Catholic Mission First arrived in Matupit Island in 1882&nbsp;<br><b>(4)</b> Arrival of SDA Church Matupit Island June 4th 1929<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
           "title4": "",
           "subtitle4": "Sites to be visited are",
           "caption4": "<br><br>                         <br><br>",
@@ -689,12 +689,12 @@
           "title2": "Volcano Climbing (Tavurvur) at $60 per adult &amp; Kids below 12 years FREE with 3 hours maximum time.",
           "subtitle2": "Sites to visit are",
           "caption2": "<b>(1)</b> Mt  Tavurvur <br><br>",
-          "title3": "Rabaul See It All &nbsp;at $90 &amp; Kids below 12 years FREE with 4 Hours time",
+          "title3": "Rabaul See It All &nbsp;at $80 &amp; Kids below 12 years FREE with 4 Hours time, 46 km.",
           "subtitle3": "Sites to visit are",
           "caption3": "Hot Spring(Rababa), Montevideo Maru Yamamoto Bunker,&nbsp;Rabaul Volcano Observatory, Underground Hospital, Chinese cemetery, Barge Tunnel, British Crane (drive through only), Blue Lagoon lookout &amp; Japanese Caves (drive through only),East New Britain Museum, Queen Emma's Step ladder, &nbsp;Australian War cemetery &amp; Kokopo Market. <i>End of tour &amp; back to the Ship.</i><br><i><b>Note</b>:&nbsp;</i>we have a lot more sites for you to visit at an affordable rate at no rush.&nbsp;",
-          "title4": "Melanesian Experience \n<div>at $80 &amp; Kids below 12 years FREE with 4 Hours time</div>",
+          "title4": "Melanesian Experience \n<div>at $90 &amp; Kids below 12 years FREE with 4 Hours time, 46 km.</div>",
           "subtitle4": "Sites to visit are",
-          "caption4": "Australian War cemetery<br>East New Britan Museum<br>Rabaul Volcano Observetry<br>Tavui Point Submarin Base<br>Hot Spring &amp; Volcano scenic<br>Melanisean Tropical Lunch &amp;<br>&nbsp; &nbsp; watch two variety traditional dance with other activities.&nbsp;<i>End of visit &amp; back to the Ship.</i>",
+          "caption4": "Australian War cemetery<br>East New Britan Museum<br>Rabaul Volcano Observetry<br>Submarin Base&nbsp;Tavui Point <br>Hot Spring &amp; Volcano scenic<br>Melanisean Tropical Lunch &amp;<br>&nbsp; &nbsp; watch two variety traditional dance with other activities such as our local way of cooking and weaving of mats with coconut leaves.&nbsp;<i>End of visit &amp; back to the Ship.</i>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -731,10 +731,10 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Old Beehives&nbsp;",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Original (Bawapia ) Beehives&nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Original Beehives later destroyed by volcano eruptions in 1994",
+                "text": "Original Beehives later destroyed by volcano eruptions in 29th May, 1937.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#000000"
@@ -747,7 +747,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Dr. George Brown&nbsp;",
+                "title": "<br><br><br><br><br><br><br><br>Dr. George Brown&nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Picture of Dr. George Brown &amp; wife Lydia upon arrival at the Port Hunter, Molot Duke Of York Island Rabaul on August 15th, 1875, of Methodist Church Missionary.",
@@ -757,13 +757,13 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/beehives-snorkeling-site-800x551.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Beehives&nbsp;",
+                "title": "<br><br><br><br><br><br><br><br><br><br>Beehives&nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Picture of Beehives after the volcano eruption.",
@@ -779,7 +779,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Old British Crane",
+                "title": "<br><br><br><br><br><br><br><br><br><br>Old British Crane",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Picture of British Crane remaining. ",
@@ -795,7 +795,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Traditional cell money",
+                "title": "<br><br><br><br><br><br><br><br><br>Traditional cell money",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Picture of three males displaying shell money called \"tabu\".",
@@ -804,14 +804,14 @@
                 "overlayColor": "#000000"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-8864-640x480.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/tumbuan-640x360.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "The \"tumbuan\"",
+                "title": "<br><br><br><br><br><br><br><br><span style=\"font-weight: normal;\">The \"tumbuan\"</span>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Picture of tumbuan dance featured in many cultural dress costumes, signifies spiritual dancers and traditional ceremonies.",
@@ -829,7 +829,13 @@
           "_anchor": "slider3-2s",
           "_styles": {
             "H2": {
-              "font-size": "30px"
+              "font-size": "24px"
+            },
+            "SPAN": {
+              "font-size": "19px"
+            },
+            "P": {
+              "font-size": "20px"
             }
           }
         },
@@ -1665,7 +1671,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "Services We Provide<br>",
-          "text": "<span style=\"font-style: normal;\"><br>The Excursion that is readily available are listed on our website, however, we shall tailor make your own excursion upon your request according to your budget.\n<br>We have selected for you the best Door to Door excursions to discover or remind you of Rabaul with the utmost quality and comfort, in order to make your trip here as memorable and enjoyable as possible.\n<br>The most rewarding way to experience and learn about Rabaul is to go on a sightseeing tour; therefore we have organized everything you need for your visits:\n<br></span> \n<br><span style=\"font-style: normal;\">      Private Car Tours &amp; Sightseeing\n<br>      Uber Taxi Service available\n<br>      Boat Cruise trip\n<br>      Volcano Mountain Climbing &amp; Hiking\n<br>      Fishing Trips\n<br>      Snorkeling Trips\n<br>      The Famous Rabaul’s Tourist Cultural &amp; Arts Exhibition Show.\n<br></span>\n<br>",
+          "text": "<span style=\"font-style: normal;\"><br>The Excursion that is readily available are listed on our website, however, we shall tailor make your own excursion upon your request according to your budget.\n<br>We have selected for you the best Door to Door excursions to discover or remind you of Rabaul with the utmost quality and comfort, in order to make your trip here as memorable and enjoyable as possible.\n<br>The most rewarding way to experience and learn about Rabaul is to go on a sightseeing tour; therefore we have organized everything you need for your visits:\n<br></span> \n<br><span style=\"font-style: normal;\">      Private Car Tours &amp; Sightseeing\n<br>      Uber Taxi Service available\n<br>      Boat Cruise trip\n<br>      Volcano Mountain Climbing &amp; Hiking\n<br>      Fishing Trips\n<br>      Snorkeling Trips</span><br><span style=\"font-style: normal;\">Stayz online&nbsp;Accomadation &nbsp;available</span><br><span style=\"font-style: normal;\">Currency exchange provided&nbsp;<br>      The Famous Rabaul’s Tourist Cultural &amp; Arts Exhibition Show.\n<br></span>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
