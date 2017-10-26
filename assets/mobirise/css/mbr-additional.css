@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -545,6 +546,13 @@ h6,
 }
 #slider3-2s P {
   font-size: 20px;
+}
+#content2-2w BLOCKQUOTE {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 19px;
+}
+#content2-2w SPAN {
+  font-size: 18px;
 }
 #footer1-i P {
   color: #000000;

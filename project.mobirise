@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 104,
+    "uniqCompNum": 105,
     "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": ""
@@ -1029,6 +1029,29 @@
             },
             "P": {
               "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#c1c1c1"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Brief histories of Sailors and Missionaries Journey within New Guinea Islands and the Bismarck Archipelago.&nbsp;</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><b style=\"font-size: 18px; font-style: normal;\">\n</b></p><p><b style=\"font-size: 18px; font-style: normal;\">\n</b></p><p><b style=\"font-size: 18px; font-style: normal;\">\n</b><span style=\"font-size: 18px; font-style: normal;\">1500 16th Century Sailors from Europe sailed through the Pacific Ocean as Traders.&nbsp;</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1528 Bismarck Archipelago a Spain Sailor De Saavedra drew the islands of Manus.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1768 a group of sailors from France, who followed England, sailors saw Bougainville.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1791 English sailor from England named John Hunter sailed from Sydney on his way to Batavia (Indonesia) stopped over at Port Hunter named after him and he made friends with the people at Molot Duke of York Islands and gave them two nice puppies he brought all the way from England.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1793 d'Entrecasteaux &amp; Duperrey in 1823 from England named Simpson first discovered the Simpson Harbor in his Ship called Blanche now the other bay called Blanche Bay.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1848 Roman Catholic Church first arrived in Woodlark Islands &amp; Umboi.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1875 Germany sent Von Schleinitz in a Ship called \"Gazelle\" and now we called it \"Gazelle Peninsula\".\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">15th August 1875 Methodist Church first Missionaries led by Dr. George Brown &amp; 10 Fijians first arrived at Port Hunter, Molot, and Duke of York.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1885 Roman Catholic First arrived in Matupit Island Rabaul.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">4th June 1929 Captain G F Jones with Fijian missionaries of the Seventh-day Adventist Church first set foot at Patami beach (Raulai)  Matupit Island Rabaul.\n</span><span style=\"font-size: 18px; font-style: normal;\">&nbsp;</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2w",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "font-size": "19px"
+            },
+            "SPAN": {
+              "font-size": "18px"
             }
           }
         },
