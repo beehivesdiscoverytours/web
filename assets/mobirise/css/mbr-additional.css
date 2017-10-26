@@ -538,6 +538,7 @@ h6,
 }
 #slider3-2s H2 {
   font-size: 24px;
+  color: #ffffff;
 }
 #slider3-2s SPAN {
   font-size: 19px;
@@ -550,7 +551,7 @@ h6,
 }
 
 #form1-24 .form-control-label {
-  color: #232323;
+  color: #000000;
 }
 #form1-24 SMALL {
   font-size: 18px;

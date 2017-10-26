@@ -94,7 +94,7 @@
           "_params": {
             "showBullets": true,
             "fullWidth": true,
-            "spacing": 1,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
@@ -155,7 +155,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20171025-wa0000-640x480-640x480.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Montie Video Maru",
@@ -244,6 +244,39 @@
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Melanesian Tropical Lunch Buffet",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20171026-wa0004-640x361.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20171026-wa0004-640x361-640x361.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Melanesian Tropical Lunch Buffet",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20171026-wa0009-640x361.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20171026-wa0009-640x361-640x361.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Melanesian Tropical Lunch Buffet",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-9-4-21-37-27-572703.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/AueqKtkKg8k",
+                "image": "@PROJECT_PATH@/assets/images/img-20171026-wa0009-640x361.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20171026-wa0009-640x361-640x361.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
@@ -291,7 +324,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<br>What Beehives Discovery Tours has to offer&nbsp;",
-          "text": "<p>Feel inspired by Rabaul’s stunning scenery, huge range of activities and renowned warm welcome. Surrounded by majestic islands and set on the shores of crystal clear seas, the natural beauty and the unique energy of the region create the perfect backdrop for a holiday full of discovery, and rejuvenation. \n<span style=\"font-size: 1.07rem;\">You’ll find everything you need to plan your next trip to Rabaul, from accommodation options to the endless array of activities and attractions, as well as a full calendar of events for the year 2018.&nbsp;</span><span style=\"font-size: 1.07rem;\">We offer services varying from the guided tours, to exclusive activities while you are here in Rabaul. Tours, Excursions, and Events, Beehives Discovery Tours is your solution to a stress-free vacation. &nbsp;&nbsp;</span><span style=\"font-size: 1.07rem;\">We aim to bring services to your doorstep Our motto is simple!!! &nbsp;</span><span style=\"font-size: 1.07rem;\">“You choose and we make it possible at your convenience” everything is all about you.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><b>Beehives History</b></span></p><p><span style=\"font-size: 1.07rem;\">Beehive use to be a fishing zone for the fisherman where they kept canned wiven fish traps, fishing nets, and they had their houses, Beehives welcomes you to Rabaul and farwells you after exploring.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Rabaul History</b></span></p><p><span style=\"font-size: 1.07rem;\">Rabaul is a township in East New Britain province, on the island of New Britain, in the country of Papua New Guinea. New Britain is an island about 60 kilometers to the east of the island of New Guinea.</span><span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">East New Britain is a province of Papua New Guinea, consisting of the north-eastern part of the island of New Britain and the Duke of York Islands. The Capital of the province is Kokopo, 40km from the old capital of Rabaul which was know as the first city of New Guinea during the colonial era and was largely destroyed during the twin volcanic eruption in 1994.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">East New Britain covers a total land area of 15,816 square kilometers (6,107 sq mi), and the province's population was reported as 220,133 in the 2000 census, rising to 500,000 Est in the 2017 count. Provincial coastal waters extend over an area of 104,000 square meters (26 acres). The province's only land border is with West New Britain Province to the west, and it also shares a maritime border with New Ireland Province to the east.&nbsp;</span><span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">Rabaul is better known as (Rababaul) in our Kuanua language meaning \"The Mangroves\". We come from a Melanesian Matrilineal Society where the woman is rulers and own the Land and Clans. We speak the Kuanua Language and we are known as the Kuanua people of Rabaul and NOT the Tolais. Tolai in Kuanua meaning \"My Friend\" is just a slang used in the early 1960s. &nbsp;&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">The people of East New Britain are culturally diversified, with rich and unique traditions. The \"tumbuan\", featured in many cultural dress costumers, signifies spiritual dancers and traditional ceremonies. The Kuanua people of the Gazelle Peninsula have continued to use the traditional shell money called \"tabu\".&nbsp;</span><span style=\"font-size: 1.07rem;\">East New Britain has a bit of everything; colonial and war exciting wilderness and a great local culture, Rabaul sits at the base of an extinct volcanic caldron which has to be most famous for its active volcanoes and its world class diving geographical sites.&nbsp;</span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>",
+          "text": "<p>Feel inspired by Rabaul’s stunning scenery, huge range of activities and renowned warm welcome. Surrounded by majestic islands and set on the shores of crystal clear seas, the natural beauty and the unique energy of the region create the perfect backdrop for a holiday full of discovery, and rejuvenation. \n<span style=\"font-size: 1.07rem;\">You’ll find everything you need to plan your next trip to Rabaul, from accommodation options to the endless array of activities and attractions, as well as a full calendar of events for the year 2018.&nbsp;</span><span style=\"font-size: 1.07rem;\">We offer services varying from the guided tours, to exclusive activities while you are here in Rabaul. Tours, Excursions, and Events, Beehives Discovery Tours is your solution to a stress-free vacation. &nbsp;&nbsp;</span><span style=\"font-size: 1.07rem;\">We aim to bring services to your doorstep Our motto is simple!!! &nbsp;</span><span style=\"font-size: 1.07rem;\">“You choose and we make it possible at your convenience” everything is all about you.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><b>Beehives History</b></span></p><p><span style=\"font-size: 1.07rem;\">Beehive use to be a fishing zone for the fisherman where they kept canned wiven fish traps, fishing nets, and they had their houses, Beehives welcomes you to Rabaul and farwells you after exploring.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Rabaul History</b></span></p><p><span style=\"font-size: 1.07rem;\">Rabaul is a township in East New Britain province, on the island of New Britain, in the country of Papua New Guinea. New Britain is an island about 60 kilometers to the east of the island of New Guinea.</span><span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">East New Britain is a province of Papua New Guinea, consisting of the north-eastern part of the island of New Britain and the Duke of York Islands. The Capital of the province is Kokopo, 40km from the old capital of Rabaul which was know as the first city of New Guinea during the colonial era and was largely destroyed during the twin volcanic eruption in 1994.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">East New Britain covers a total land area of 15,816 square kilometers (6,107 sq mi), and the province's population was reported as 220,133 in the 2000 census, rising to 500,000 Est in the 2017 count. Provincial coastal waters extend over an area of 104,000 square meters (26 acres). The province's only land border is with West New Britain Province to the west, and it also shares a maritime border with New Ireland Province to the east.&nbsp;</span><span style=\"font-size: 1.07rem;\">&nbsp;</span><span style=\"font-size: 1.07rem;\">Rabaul is better known as (Rababaul) in our Kuanua language meaning \"The Mangroves\". We come from a Melanesian Matrilineal Society where the woman is rulers and own the Land and Clans. We speak the Kuanua Language and we are known as the Kuanua people of Rabaul and NOT the Tolais. Tolai in Kuanua meaning \"My Friend\" is just a slang used in the early 1960s. &nbsp;&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">The people of East New Britain are culturally diversified, with rich and unique traditions. The \"tumbuan\", featured in many cultural dress costumes, signifies spiritual dancers and traditional ceremonies. The Kuanua people of the Gazelle Peninsula have continued to use the traditional shell money called \"tabu\".&nbsp;</span><span style=\"font-size: 1.07rem;\">East New Britain has a bit of everything; colonial and war exciting wilderness and a great local culture, Rabaul sits at the base of an extinct volcanic caldron which has to be most famous for its active volcanoes and its world class diving geographical sites.</span>&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -306,7 +339,7 @@
             "bgColor": "#90a878"
           },
           "text1": "",
-          "text2": "<b>Common Languages Used:\n</b><div>&nbsp;<b>IN Kuanua:&nbsp;&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>                  IN English: </b></div><div>                                                                                                                  AWARWAGAI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              HELLO </div><div>                                                                                                                MALANA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;MORNING </div><div>                                                                                                            BOINA KEAKA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            GOOD DAY </div><div>                                                                                                            TAWA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                        WATER </div><div>                                                                                                                BOINA TUNA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             THANK YOU</div><div>                                                                                                         UNA MAI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YOU COME</div><div>                                                                                                           PATA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          NO</div><div>                                                                                                                       ALA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;YES </div><div>                                                                                                                      YAURO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       OK</div><div>                                                                                                                       YOKO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GOOD BYE</div><div>                                                                                                             MARUM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NIGHT </div><div>                                                                                                                  KOKO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        DONT</div><div>                                                                                                                   ARURUT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HURRY UP</div><div>                                                                                                             MOMO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DRINK</div><div>                                                                                                                   YAN &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EAT</div><div><br></div><div><b>                                                                                                                       NUMBERS:\n</b></div><div>TIKAI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ONE                                                                     \n</div><div>&nbsp;AURUA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TWO </div><div>                                                                                                                    AUTUL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THREE </div><div>                                                                                                                AIWAT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        FOUR </div><div>                                                                                                                  AILIMA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       FIVE </div><div>                                                                                                                    ALAPIKAI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SIX </div><div>                                                                                                                      ALAVURUA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                SEVEN</div><div>                                                                                                                   ALAVUVUTEL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EIGHT</div><div>AVALAVUT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; NINE</div><div> </div><div>                                                                                                                  AVINUN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TEN\n</div><div><br></div>",
+          "text2": "<b>Common Language Used:\n</b><div>&nbsp;<b>IN Kuanua:&nbsp;&nbsp;</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>                  IN English: </b></div><div>                                                                                                                  AWARWAGAI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              HELLO </div><div>                                                                                                                MALANA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;MORNING </div><div>                                                                                                            BOINA KEAKA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            GOOD DAY </div><div>                                                                                                            TAWA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;                        WATER </div><div>                                                                                                                BOINA TUNA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             THANK YOU</div><div>                                                                                                         UNA MAI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YOU COME</div><div>                                                                                                           PATA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          NO</div><div>                                                                                                                       ALA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;YES </div><div>                                                                                                                      YAURO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       OK</div><div>                                                                                                                       YOKO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GOOD BYE</div><div>                                                                                                             MARUM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NIGHT </div><div>                                                                                                                  KOKO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        DONT</div><div>                                                                                                                   ARURUT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HURRY UP</div><div>                                                                                                             MOMO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DRINK</div><div>                                                                                                                   YAN &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EAT</div><div><br></div><div><b>                                                                                                                       NUMBERS:\n</b></div><div>TIKAI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ONE                                                                     \n</div><div>AURUA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TWO </div><div>                                                                                                                    AUTUL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;THREE </div><div>                                                                                                                AIWAT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FOUR </div><div>                                                                                                                  AILIMA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;FIVE </div><div>                                                                                                                    ALAPIKAI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SIX </div><div>                                                                                                                      ALAVURUA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                SEVEN</div><div>ALAVUTUL &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;EIGHT&nbsp;</div><div><span style=\"font-size: 1.07rem;\">ALAVUVAT &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; NINE</span><br></div><div> </div><div>                                                                                                                  AVINUN &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;TEN</div>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -820,7 +853,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/tumbuan-640x360.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -830,6 +863,150 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Picture of tumbuan dance featured in many cultural dress costumes, signifies spiritual dancers and traditional ceremonies.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/beehives-tours-logo-621x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br><br><br>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vunapope-of-rabaul-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br>Vunapope Archdiocese of Rabaul&nbsp;<br><br><br><br><br>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171024-wa0011-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br>Beach at Nakukur Guest House<br><br>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171024-wa0002-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br>&nbsp;<br><br>First Methodist Church Built by George Brown in Molot 1878.",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171023-wa0023-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Methodist Church at Kabakada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171023-wa0013-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br><br>Hot Spring (Rababa)&nbsp;",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171023-wa0009-640x480.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br>Picture Of &nbsp;Tourists Posing At The Montie Video Maru<br>",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/captan-gf-jones-480x482.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br><br>Captan G F Jones",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20171026-wa0004-640x361.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br><br>Melanesian Tropical Lunch Buffet",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#000000"
@@ -844,7 +1021,8 @@
           "_anchor": "slider3-2s",
           "_styles": {
             "H2": {
-              "font-size": "24px"
+              "font-size": "24px",
+              "color": "#ffffff"
             },
             "SPAN": {
               "font-size": "19px"
@@ -922,20 +1100,20 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
-            "labelsColor": "#232323",
+            "labelsColor": "#000000",
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/beehives-tours-logo-621x480.jpg",
+            "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#90a878",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
           "title": "Book Your Trip",
-          "subtitle": "<span style=\"font-style: normal;\">please fill in the contact form below to book your next trip with us and remember to hit the send button below.</span>",
+          "subtitle": "<span style=\"font-style: normal;\">Please fill in the contact form below to book your next trip with us and remember to hit the send button below.</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-touch-swipe mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "form": {
             "action": "varatechlinks@gmail.com",
@@ -971,7 +1149,7 @@
           "_anchor": "form1-24",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#000000"
             },
             "SMALL": {
               "font-size": "18px",
