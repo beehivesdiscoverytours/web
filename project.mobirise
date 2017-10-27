@@ -779,7 +779,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Original (Bawapia ) Beehives&nbsp;",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br>Original ( Bawapia ) Beehives&nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Original Beehives later destroyed by volcano eruptions in 29th May, 1937.",
@@ -827,7 +827,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br><br><br><br><br><br><br><br><br>Old British Crane",
+                "title": "<br><br><br><br>Old British Crane",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Picture of British Crane remaining. ",
@@ -843,10 +843,10 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br><br><br><br><br><br><br><br>Traditional cell money",
+                "title": "<br><br><br><br><br><br><br>Traditional cell money",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Picture of three males displaying shell money called \"tabu\".",
+                "text": "<span style=\"font-style: normal;\">Picture of Tatatuila Tumbuan clan man displaying shell money called \"tabu\".</span>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#000000"
@@ -891,7 +891,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br><br>Vunapope Archdiocese of Rabaul&nbsp;<br><br><br><br><br>",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br>Vunapope Archdiocese of Rabaul&nbsp;<br><br><br><br><br>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "",
@@ -939,7 +939,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Methodist Church at Kabakada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br>",
+                "title": "<br><br><br><br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><br><br><br><br><br><br><br><br><br><br>Methodist Church at Kabakada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><br>",
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "",
@@ -997,7 +997,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20171026-wa0004-640x361.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1007,6 +1007,22 @@
                 "overlay": false,
                 "contentAlign": "center",
                 "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/beehives-pickup-point-640x480.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; Beehives 's Red Tant Pickup Point.",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<span style=\"font-style: normal;\">Picture of Beehives tourist's pickup location outside the main gate.</span><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#000000"
@@ -1021,14 +1037,20 @@
           "_anchor": "slider3-2s",
           "_styles": {
             "H2": {
-              "font-size": "24px",
-              "color": "#ffffff"
+              "font-size": "18px",
+              "color": "#ffffff",
+              "text-align": "right"
             },
             "SPAN": {
-              "font-size": "19px"
+              "font-size": "19px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             },
             "P": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "text-align": "right"
             }
           }
         },
@@ -1038,7 +1060,7 @@
             "paddingBottom": 1,
             "bgColor": "#c1c1c1"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Brief histories of Sailors and Missionaries Journey within New Guinea Islands and the Bismarck Archipelago.&nbsp;</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><b style=\"font-size: 18px; font-style: normal;\">\n</b></p><p><b style=\"font-size: 18px; font-style: normal;\">\n</b></p><p><b style=\"font-size: 18px; font-style: normal;\">\n</b><span style=\"font-size: 18px; font-style: normal;\">1500 16th Century Sailors from Europe sailed through the Pacific Ocean as Traders.&nbsp;</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1528 Bismarck Archipelago a Spain Sailor De Saavedra drew the islands of Manus.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1768 a group of sailors from France, who followed England, sailors saw Bougainville.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1791 English sailor from England named John Hunter sailed from Sydney on his way to Batavia (Indonesia) stopped over at Port Hunter named after him and he made friends with the people at Molot Duke of York Islands and gave them two nice puppies he brought all the way from England.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1793 d'Entrecasteaux &amp; Duperrey in 1823 from England named Simpson first discovered the Simpson Harbor in his Ship called Blanche now the other bay called Blanche Bay.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1848 Roman Catholic Church first arrived in Woodlark Islands &amp; Umboi.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1875 Germany sent Von Schleinitz in a Ship called \"Gazelle\" and now we called it \"Gazelle Peninsula\".\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">15th August 1875 Methodist Church first Missionaries led by Dr. George Brown &amp; 10 Fijians first arrived at Port Hunter, Molot, and Duke of York.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">1885 Roman Catholic First arrived in Matupit Island Rabaul.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">4th June 1929 Captain G F Jones with Fijian missionaries of the Seventh-day Adventist Church first set foot at Patami beach (Raulai)  Matupit Island Rabaul.\n</span><span style=\"font-size: 18px; font-style: normal;\">&nbsp;</span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Brief histories of Sailors and Missionaries Journey within New Guinea Islands and the Bismarck Archipelago.&nbsp;</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><b style=\"font-size: 18px; font-style: normal;\">\n</b></p><p><b style=\"font-size: 18px; font-style: normal;\">\n</b></p><p><b style=\"font-size: 18px; font-style: normal;\"></b><span style=\"font-size: 18px; font-style: normal;\"><b>* </b>1500 16th Century Sailors from Europe sailed through the Pacific Ocean as Traders.&nbsp;</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\"><b>* </b>1528 Bismarck Archipelago a Spain Sailor De Saavedra drew the islands of Manus.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\"><b>* </b>1768 a group of sailors from France, who followed England, sailors saw Bougainville.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\"><b>* </b>1791 English sailor from England named John Hunter sailed from Sydney on his way to Batavia (Indonesia) stopped over at Port Hunter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;named after him and he made friends with the people at Molot Duke of York Islands and gave them two nice puppies he brought all the &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;way from England.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\"><b>* </b>1793 d'Entrecasteaux &amp; Duperrey in 1823 from England named Simpson first discovered the Simpson Harbor in his Ship called Blanche &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;now the other bay called Blanche Bay.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\"><b>* </b>1848 Roman Catholic Church first arrived in Woodlark Islands &amp; Umboi.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\"><b>* </b>1875 Germany sent Von Schleinitz in a Ship called \"Gazelle\" and now we called it \"Gazelle Peninsula\".\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\"><b>* </b>15th August 1875 Methodist Church first Missionaries led by Dr. George Brown &amp; 10 Fijians first arrived at Port Hunter, Molot, Duke of York &nbsp; &nbsp;Island.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\"><b>* </b>1889 Roman Catholic First arrived in Matupit Island &amp; Nodup village in Rabaul and later moved to Vunapope now it is today.\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\">\n</span></p><p><span style=\"font-size: 18px; font-style: normal;\"><b>* </b>4th June 1929 Captain G F Jones with Fijian missionaries of the Seventh-Day Adventist Church first set foot at Patami beach (Raulai)  Matupit &nbsp; Island Rabaul.\n</span><span style=\"font-size: 18px; font-style: normal;\">&nbsp;</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
