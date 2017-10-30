@@ -1013,7 +1013,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/beehives-pickup-point-640x480.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1023,6 +1023,22 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<span style=\"font-style: normal;\">Picture of Beehives tourist's pickup location outside the main gate.</span><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/birdwatch-beehives-640x480.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&nbsp; &nbsp; Beehives 's Birds&nbsp;",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<span style=\"font-style: normal;\">Picture of Beehives birds for bird watching.</span><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#000000"
@@ -1161,9 +1177,9 @@
           "subtitle": "<span style=\"font-style: normal;\">Please fill in the contact form below to book your next trip with us and remember to hit the send button below.</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-touch-swipe mbr-iconfont mbr-iconfont-btn\"></span>Send</a>",
           "form": {
-            "action": "varatechlinks@gmail.com",
+            "action": "beehivesdiscovery@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out  the form!"
             },
             "fields": {
               "name": {
@@ -1945,13 +1961,13 @@
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Face book: beehivesdiscoverytours&nbsp;</li><li>Download Map of RabaulTown</li></ul>",
           "form": {
             "title": "MESSAGE",
-            "action": "varatechlinks@gmail.com",
+            "action": "beehivesdiscovery@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
-                "visible": false,
+                "visible": true,
                 "title": "Name",
                 "customTitle": "Name*"
               },
